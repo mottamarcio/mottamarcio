@@ -44,6 +44,12 @@ An ordinary software developer who loves learning about new technologies and doi
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" title="Gradle" alt="Gradle" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" /></code>
 
+### Spoken languages
+- 🇧🇷 Portuguese : mother language
+- 🇺🇸 English : advanced
+- 🇪🇸 Spanih : intermediate
+- 🇮🇹 Italian : basic, but still learning
+
 ### 📫 How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/marciovcmotta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
