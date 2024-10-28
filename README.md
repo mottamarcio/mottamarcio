@@ -19,6 +19,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img width="25" height="25" src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" title="FastAPI" alt="FastAPI" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" title="Flask" alt="Flask"/></code>
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
