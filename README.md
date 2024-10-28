@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👨‍🚀 About me:
-An ordinary software developer who loves learning about new technologies and doing what he does.
+36 years old, family man and aspiring entrepreneur with a creative mind. Software developer passionate about building innovative solutions and doing what I love.
 
 ### ❤️ My interests are:
 - My beloved daughter;
