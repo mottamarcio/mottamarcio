@@ -44,7 +44,7 @@ An ordinary software developer who loves learning about new technologies and doi
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" title="Gradle" alt="Gradle" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" /></code>
 
-### Spoken languages
+### 🗣️ Spoken languages
 - 🇧🇷 Portuguese : mother language
 - 🇺🇸 English : advanced
 - 🇪🇸 Spanih : intermediate
