@@ -47,7 +47,7 @@ An ordinary software developer who loves learning about new technologies and doi
 ### 🗣️ Spoken languages
 - 🇧🇷 Portuguese : mother language
 - 🇺🇸 English : advanced
-- 🇪🇸 Spanih : intermediate
+- 🇪🇸 Spanish : intermediate
 - 🇮🇹 Italian : basic, but still learning
 
 ### 📫 How to reach me:
