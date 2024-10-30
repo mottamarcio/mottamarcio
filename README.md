@@ -24,9 +24,9 @@
 <img height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" /></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="SASS" alt="SASS" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" title="Golang" alt="Golang" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
