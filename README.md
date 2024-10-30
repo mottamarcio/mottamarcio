@@ -27,8 +27,8 @@
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" title="Golang" alt="Golang" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
