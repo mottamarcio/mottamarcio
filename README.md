@@ -15,16 +15,18 @@
 ### 🚀 Languages and tools:
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img width="25" height="25" src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" title="FastAPI" alt="FastAPI" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" title="Flask" alt="Flask"/></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
+<img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML" alt="HTML" /></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" /></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="SASS" alt="SASS" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
-<img height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/nodejs.png" title="Node JS" alt="Node JS">
+<img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" title="Golang" alt="Golang" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
@@ -33,7 +35,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="MongoDB"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
-<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
+<img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="Docker" alt="Docker" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="GraphQL"/></code>
