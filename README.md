@@ -33,6 +33,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" alt="MongoDB"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/apache_couchdb/apache_couchdb-icon.svg" title="CouchDB" alt="CouchDB"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="SQLite"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" title="Redis" alt="Redis"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" title="Docker" alt="Docker" /></code>
