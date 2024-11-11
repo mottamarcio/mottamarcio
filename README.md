@@ -21,6 +21,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="Typescript" alt="Typescript"/></code>
 <img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" title="Express" alt="Express"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" title="NestJS" alt="NestJS"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" /></code>
 <img width="25" height="25" src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" title="FastAPI" alt="FastAPI" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" title="Flask" alt="Flask"/></code>
